@@ -1,3 +1,3 @@
-# Programacao-Orientada-a-Objetos
+# OOP
 C++
-Trabalho da Licenciatura de Engenharia Informática na disciplina de Programação Orientada a Objetos 2021-2022
+Work as a student of the Bachelor's Degree in Computer Science 2021-2022
